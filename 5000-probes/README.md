@@ -12,9 +12,9 @@ can be integrated with UCE capture data using the
 * monodelphis_domestica [monDom5](http://hgdownload.cse.ucsc.edu/goldenPath/monDom5/bigZips/)
 
 * anolis_carolinensis [anoCar2](http://hgdownload.cse.ucsc.edu/goldenPath/anoCar2/bigZips/)
-* crocodylus_porosus [croPor0.1](ftp://ftp.crocgenomes.org/pub/crocodile.old/cpor_v0.0.1/)
+* crocodylus_porosus [croPor0.1](http://crocgenomes.org/) ftp://ftp.crocgenomes.org/pub/crocodile.old/cpor_v0.0.1/cPorosus_v0.0.1.fa
 * meleagris_gallopavo [melGal2](ftp://ftp.ncbi.nih.gov/genbank/genomes/Eukaryotes/vertebrates_other/Meleagris_gallopavo/Turkey_2.01/Primary_Assembly/assembled_chromosomes/FASTA/)
-* alligator_mississippiensis [allMis1](ftp://ftp.crocgenomes.org/pub/alligator.current/aMiss_AKHW01000000_sub1.fa.gz)
+* alligator_mississippiensis [allMis1](http://crocgenomes.org/) ftp://ftp.crocgenomes.org/pub/alligator.current/aMiss_AKHW01000000_sub1.fa.gz
 
 # Steps
 
