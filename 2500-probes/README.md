@@ -20,12 +20,12 @@ can be integrated with UCE capture data using the
 
 # Steps
 
-Steps to generate these outgroup data are in [./STEPS.md](STEPS.md).
+Steps to generate these outgroup data are in [STEPS.md](./STEPS.md).
 
 # Fasta data (in outgroup-fasta)
 
 Fasta data represent genome slices from the above taxa where we located individual
-probes +/- 500 bp.  Lastz matches of probes to genomes are in [./outgroup-lastz](outgroup-lastz).
+probes +/- 500 bp.  Lastz matches of probes to genomes are in [outgroup-lastz](./outgroup-lastz).
 
 # Locus data (in outgroup-loci)
 
