@@ -10,11 +10,13 @@ can be integrated with UCE capture data using the
 * mus_musculus [mm9](http://hgdownload.cse.ucsc.edu/goldenPath/mm9/bigZips/)
 * zebra_finch [taeGut1](http://hgdownload.cse.ucsc.edu/goldenPath/taeGut1/bigZips/)
 * monodelphis_domestica [monDom5](http://hgdownload.cse.ucsc.edu/goldenPath/monDom5/bigZips/)
-
 * anolis_carolinensis [anoCar2](http://hgdownload.cse.ucsc.edu/goldenPath/anoCar2/bigZips/)
-* crocodylus_porosus [croPor0.1](http://crocgenomes.org/) ftp://ftp.crocgenomes.org/pub/crocodile.old/cpor_v0.0.1/cPorosus_v0.0.1.fa
-* meleagris_gallopavo [melGal2](ftp://ftp.ncbi.nih.gov/genbank/genomes/Eukaryotes/vertebrates_other/Meleagris_gallopavo/Turkey_2.01/Primary_Assembly/assembled_chromosomes/FASTA/)
-* alligator_mississippiensis [allMis1](http://crocgenomes.org/) ftp://ftp.crocgenomes.org/pub/alligator.current/aMiss_AKHW01000000_sub1.fa.gz
+* crocodylus_porosus [croPor0.1](http://crocgenomes.org/)
+  ftp://ftp.crocgenomes.org/pub/crocodile.old/cpor_v0.0.1/cPorosus_v0.0.1.fa
+* meleagris_gallopavo [melGal2](http://www.ncbi.nlm.nih.gov/genbank)
+  ftp://ftp.ncbi.nih.gov/genbank/genomes/Eukaryotes/vertebrates_other/Meleagris_gallopavo/Turkey_2.01/Primary_Assembly/assembled_chromosomes/FASTA/)
+* alligator_mississippiensis [allMis1](http://crocgenomes.org/)
+  ftp://ftp.crocgenomes.org/pub/alligator.current/aMiss_AKHW01000000_sub1.fa.gz
 
 # Steps
 
