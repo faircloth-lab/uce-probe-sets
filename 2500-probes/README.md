@@ -30,4 +30,6 @@ probes +/- 500 bp.  Lastz matches of probes to genomes are in [outgroup-lastz](2
 # Locus data (in outgroup-loci)
 
 To assemble fasta slices to UCE loci, we ran the 
-`phyluce/bin/share/assemble_contigs_from_genomes.py` code.
+`phyluce/bin/share/assemble_contigs_from_genomes.py` code.  Assembled loci (these
+are what you use with the `--extend` argument to `get_match_counts.py`) are in 
+[outgroup-loci](2500-probes/outgroup-loci).
