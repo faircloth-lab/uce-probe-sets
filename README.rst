@@ -28,6 +28,8 @@ in your Literature Cited.  A good list to find all of these sources
 is available by finding a given build on the `UCSC Genome Browser`_ 
 and looking at the build details.
 
+.. [Fair:2012a] Faircloth BC, McCormack JE, Crawford NG, Harvey MG, Brumfield RT, Glenn TC (2012). Ultraconserved Elements Anchor Thousands of Genetic Markers Spanning Multiple Evolutionary Timescales. Systematic Biology 61: 717-726. pmid: `22232343 <http://www.ncbi.nlm.nih.gov/pubmed?term=22232343%5Buid%5D>`_ doi: `10.1093/sysbio/SYS004 <http://dx.doi.org/10.1093/sysbio/SYS004>`_.
+
 
 Version control
 ---------------
@@ -104,11 +106,6 @@ are several files:
   included.  The data within this directory is useful for 
   incorporating outgroup data to other UCE data sets as described in 
   the `phyluce documentation`_
-
-References
-----------
-
-.. [Fair:2012a] Faircloth BC, McCormack JE, Crawford NG, Harvey MG, Brumfield RT, Glenn TC (2012). Ultraconserved Elements Anchor Thousands of Genetic Markers Spanning Multiple Evolutionary Timescales. Systematic Biology 61: 717-726. pmid: `22232343 <http://www.ncbi.nlm.nih.gov/pubmed?term=22232343%5Buid%5D>`_ doi: `10.1093/sysbio/SYS004 <http://dx.doi.org/10.1093/sysbio/SYS004>`_.
 
 .. _UCSC Genome Browser: http://hgdownload.cse.ucsc.edu/downloads.html
 .. _phyluce: https://github.com/faircloth-lab/phyluce
