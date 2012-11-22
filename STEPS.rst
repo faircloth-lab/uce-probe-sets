@@ -60,7 +60,7 @@ are several files:
     mkdir uce-2.5k-probe-set
     cp ~/Working/UCE-overlaps/uce-3k-probes.fasta ./uce-2.5k-probe-set
 
-- run the 2.5k probeset against genome assemblies:
+- run the 2.5k probeset against genome assemblies::
 
     python ~/git/phyluce/bin/align/run_multiple_lastzs_sqlite.py \
         uce-2.5k-probes.sqlite \
@@ -135,7 +135,7 @@ are several files:
 
     mkdir outgroup-lastz
 
-- run the 5k probeset against genome assemblies:
+- run the 5k probeset against genome assemblies::
 
     python ~/git/phyluce/bin/align/run_multiple_lastzs_sqlite.py \
         uce-5k-probes.sqlite \
