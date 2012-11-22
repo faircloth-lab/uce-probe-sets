@@ -17,7 +17,7 @@ Usage
 -----
 
 You are free to use these data in your analyses.  If you use
-the ougroup data here, please reference [Fair:2012a]_ and this
+the outgroup data here, please reference [Fair:2012a]_ and this
 website. You can provide the version of the data you used or provide 
 the hash of the commit you used in the text of your manuscript, if
 so desired.
@@ -114,6 +114,6 @@ References
 .. _phyluce: https://github.com/faircloth-lab/phyluce
 .. _phyluce documentation: http://faircloth-lab.github.com/phyluce/
 .. _working branch: https://github.com/faircloth-lab/uce-probe-sets/tree/working
-.. _STEPS: https://github.com/faircloth-lab/uce-probe-sets/blob/working/STEPS.rst
+.. _STEPS: https://github.com/faircloth-lab/uce-probe-sets/blob/master/STEPS.rst
 .. _tags: https://github.com/faircloth-lab/phyluce/tags
-.. _this file: genome-sequence-location.conf
+.. _this file: https://github.com/faircloth-lab/uce-probe-sets/blob/master/genome-sequence-location.conf
