@@ -31,7 +31,7 @@ Bait Availability
 -----------------
 
 The tetrapod bait designs in this repository are available as commercially 
-produced "capture-kits" from `Arbor Biosciences_`.
+produced "capture-kits" from `Arbor Biosciences`_.
 
 Organization of this Repository
 -------------------------------
