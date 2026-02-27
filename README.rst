@@ -1,12 +1,9 @@
 UCE-probe-sets
 ==============
 
-Files in this directory represent standardized outgroup data from 
+Files in this directory include bait designs and standardized outgroup data from 
 various sets of target enrichment probes used for enriching UCE data 
 from various groups organisms (e.g. see [Fair:2012a]_).
-
-At the moment, the organisms having UCE/outgroup data are limited to 
-tetrapods.  This list will soon expand to include fishes.
 
 Probe designs, genomic positions of designed probes, fasta slices 
 around genomic positions of designed probes, and outgroup UCE loci 
@@ -30,7 +27,6 @@ and looking at the build details.
 
 .. [Fair:2012a] Faircloth BC, McCormack JE, Crawford NG, Harvey MG, Brumfield RT, Glenn TC (2012). Ultraconserved Elements Anchor Thousands of Genetic Markers Spanning Multiple Evolutionary Timescales. Systematic Biology 61: 717-726. pmid: `22232343 <http://www.ncbi.nlm.nih.gov/pubmed?term=22232343%5Buid%5D>`_ doi: `10.1093/sysbio/SYS004 <http://dx.doi.org/10.1093/sysbio/SYS004>`_.
 
-
 Version control
 ---------------
 
@@ -43,14 +39,6 @@ explanatory details will generally result in a minor version
 bump (e.g., v3.0 to v3.1).  Major changes to the contents of the
 repository (due to error or addition of new probes/taxa) will
 result in a major version bump (e.g., v3.0 to v4.0).
-
-
-Working versions
-----------------
-
-Working versions of outgroup data may differ, as I prepare them.  
-The working versions may be accessed from the `working branch`_ of 
-the repository.
 
 
 Genomic data and data generation STEPS
